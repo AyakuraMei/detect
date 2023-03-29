@@ -1,20 +1,19 @@
 # detect
-for graduation
+Graduation Design
 
-## web
-Using React framework
-- install the package yourself (all packages were remembered in the packages.json)
+## web front
+Based on React, antd and Redux
+- Install the packages which were recorded in the packages.json
 
 ```shell
 yarn start
 ```
 
 ## server
-Using Django as the server
+Based on Django
 - Django version 3.1.7
 - Python 3.8
-- conda 4.9.2
-- PyTorch 1.8.1 cpu version
+- PyTorch 1.8.1 cpu / gpu version are available
 
 ```shell
 python server/manange.py startserver
